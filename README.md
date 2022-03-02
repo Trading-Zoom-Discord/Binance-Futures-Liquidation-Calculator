@@ -1,1 +1,1 @@
-BFLC_v1.0_eng-pl
+Binance Futures Liquidation Calculator
